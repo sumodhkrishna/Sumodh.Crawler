@@ -1,0 +1,15 @@
+{
+  "comment": "Topic-agnostic, high-fanout hub pages used as cold-start seeds. Edit freely; one URL per entry. Outline/contents pages work best because their anchor text is dense and descriptive.",
+  "hubs": [
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents/Outlines",
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents/Lists",
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents/Portals",
+    "https://en.wikipedia.org/wiki/Wikipedia:Contents/Categories",
+    "https://curlie.org/",
+    "https://arxiv.org/",
+    "https://news.ycombinator.com/",
+    "https://stackexchange.com/sites",
+    "https://www.britannica.com/sitemap",
+    "https://plato.stanford.edu/contents.html"
+  ]
+}

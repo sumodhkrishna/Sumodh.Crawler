@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Sumodh.Crawler.Api/Sumodh.Crawler.Api.csproj" />
+    <Project Path="src/Sumodh.Crawler.Core/Sumodh.Crawler.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Sumodh.Crawler.Tests/Sumodh.Crawler.Tests.csproj" />
+  </Folder>
+</Solution>
